@@ -1,0 +1,62 @@
+# VitaShell colors file for Simple Red theme
+
+# Shell colors
+TITLE_COLOR                  = 0x903333FF
+PATH_COLOR                   = 0xFF0000FF
+DATE_TIME_COLOR              = 0xFF0000FF
+
+# Settings colors
+SETTINGS_MENU_COLOR          = 0xFF0000FF
+SETTINGS_MENU_FOCUS_COLOR    = 0x803333FF
+SETTINGS_MENU_TITLE_COLOR    = 0xFF0000FF
+SETTINGS_MENU_ITEM_COLOR     = 0xFF0000FF
+SETTINGS_MENU_OPTION_COLOR   = 0xFF0000FF
+
+# File browser colors
+FOCUS_COLOR                  = 0xFF0000FF
+FILE_COLOR                   = 0x800000FF
+SFO_COLOR                    = 0xFF9999EA
+TXT_COLOR                    = 0xFF9999EA
+FOLDER_COLOR                 = 0x903333FF
+IMAGE_COLOR                  = 0x800000FF
+ARCHIVE_COLOR                = 0xFFCFBF59
+SCROLL_BAR_COLOR             = 0x603333FF
+SCROLL_BAR_BG_COLOR          = 0x003333FF
+MARKED_COLOR                 = 0x903333FF
+
+# Context menu colors
+CONTEXT_MENU_TEXT_COLOR      = 0x903333FF
+CONTEXT_MENU_FOCUS_COLOR     = 0xFF0000FF
+CONTEXT_MENU_COLOR           = 0x903333FF
+CONTEXT_MENU_MORE_COLOR      = 0xF03333FF
+INVISIBLE_COLOR              = 0x80666666
+
+# Dialog colors
+DIALOG_COLOR                 = 0xFF0000FF
+PROGRESS_BAR_COLOR           = 0xFF0000FF
+PROGRESS_BAR_BG_COLOR        = 0x903333FF
+
+# Hex editor colors
+HEX_COLOR                    = 0xFFFFF9D4
+HEX_OFFSET_COLOR             = 0xFFDBAA8C
+HEX_NIBBLE_COLOR             = 0xFF639FFF
+
+# Text editor colors
+TEXT_COLOR                   = 0x903333FF
+TEXT_FOCUS_COLOR             = 0xFF0000FF
+TEXT_LINE_NUMBER_COLOR       = 0x903333FF
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFF0000FF
+TEXT_HIGHLIGHT_COLOR         = 0x903333FF
+
+# Photo viewer colors
+PHOTO_ZOOM_COLOR             = 0xFF000000
+
+# Audio player colors
+AUDIO_INFO_ASSIGN            = 0xFF0000FF
+AUDIO_INFO                   = 0x903333FF
+AUDIO_SPEED                  = 0xFF0000FF
+AUDIO_TIME_CURRENT           = 0xFF0000FF
+AUDIO_TIME_SLASH             = 0xFF0000FF
+AUDIO_TIME_TOTAL             = 0x903333FF
+AUDIO_TIME_BAR               = 0xFF0000FF
+AUDIO_TIME_BAR_BG            = 0x903333FF
